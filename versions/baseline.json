@@ -1,0 +1,8 @@
+{
+	"default": {
+		"brpc": {
+			"baseline": "0.9.7",
+			"port-version": 0
+		}
+	}
+}
